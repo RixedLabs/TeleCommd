@@ -1,6 +1,5 @@
 # TeleCommd
-Ever wanted to investigate & have fun with adversaries who use telegram for exfiltration? Introducting Telecommd, a simple tool for defenders to monitor and dump stolen logs by threat actors and gather additional information programmed in NodeJS. This tool is inspired by [TeleTracker.](https://github.com/tsale/TeleTracker)
-
+Ever wanted to investigate & have fun with adversaries who use telegram for exfiltration? Introducting Telecommd, a simple tool for defenders to monitor and dump stolen logs by threat actors and gather additional information programmed in NodeJS built by [Kumar](https://github.com/DoubleAtoString) & [Subhajeet.](https://twitter.com/ElementalX2) This tool is inspired by [TeleTracker.](https://github.com/tsale/TeleTracker)
 
 ## Features.
 
@@ -10,7 +9,7 @@ Ever wanted to investigate & have fun with adversaries who use telegram for exfi
 - **Generate Invite Link**: Generate an invite link for the group, which can be useful for tracking changes in the group's membership
 - **Ban**: Take action against specific threat actors by banning them from the group, mitigating the risk of further malicious activities.
 - **Upload**: Upload a GIF files to the specific channel. This feature can be leveraged for communication or as a distraction technique.
-- **Mimic:** Mimic the bot and send messages which include Image & text message. 
+- **Mimic:** Mimic the bot and send messages which include Image & text messages. 
 - **Spam**: Send a specific message to the group to disrupt or distract threat actors, potentially impeding their activities.
 
 
