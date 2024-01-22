@@ -1,5 +1,5 @@
 # TeleCommd
-Ever wanted to investigate & have fun with adversaries who use telegram for exfiltration? Introducting Telecommd, a simple tool for defenders to monitor and dump stolen logs by threat actors and gather additional information programmed in NodeJS built by [Kumar](https://github.com/DoubleAtoString) & [Subhajeet.](https://twitter.com/ElementalX2) This tool is inspired by [TeleTracker.](https://github.com/tsale/TeleTracker)
+Ever wanted to investigate & have fun with adversaries who use telegram for exfiltration? Introducting Telecommd, a simple tool for defenders to monitor and dump stolen logs & data by threat actors and gather additional information programmed in NodeJS built by [Kumar](https://github.com/DoubleAtoString) & [Subhajeet.](https://twitter.com/ElementalX2) This tool is inspired by [TeleTracker.](https://github.com/tsale/TeleTracker)
 
 ## Features.
 
